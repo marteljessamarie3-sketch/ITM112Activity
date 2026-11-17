@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -206,11 +205,8 @@
                     <div class="error">{{ $message }}</div>
                 @enderror
 
-<<<<<<< HEAD
+
                 
-=======
-               
->>>>>>> main
             </div>
 
             <!-- Buttons -->
