@@ -29,7 +29,3 @@ The School Management System is a web-based application developed using Laravel.
 6. Run `php artisan migrate`.
 7. Start the server using `php artisan serve`.
 
-## Developers
-- Samantha Martel
-- Jessa Marie Martel
-- Bhirhenese Engle
