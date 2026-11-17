@@ -14,12 +14,20 @@
             margin: 0;
             font-family: Arial, sans-serif;
             background: #f4f7fb;
+<<<<<<< HEAD
             color: #308c24;
+=======
+            color: #e76ab7;
+>>>>>>> main
         }
 
         .sidebar {
             width: 235px;
+<<<<<<< HEAD
             background: #308c24;
+=======
+            background: #e76ab7;
+>>>>>>> main
             color: white;
             position: fixed;
             top: 0;
@@ -43,7 +51,11 @@
 
         .sidebar a:hover,
         .sidebar a.active {
+<<<<<<< HEAD
             background: #1b4d46;
+=======
+            background: #853164;
+>>>>>>> main
             color: white;
         }
 
@@ -143,12 +155,20 @@
         }
 
         .btn-primary {
+<<<<<<< HEAD
             background: #308c24;
+=======
+            background: #e76ab7;
+>>>>>>> main
             color: white;
         }
 
         .btn-primary:hover {
+<<<<<<< HEAD
             background: #308c24;
+=======
+            background: #e76ab7;
+>>>>>>> main
         }
 
         .btn-secondary {
