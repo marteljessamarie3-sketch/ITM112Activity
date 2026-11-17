@@ -71,7 +71,7 @@
             padding: 11px 16px;
             border: none;
             border-radius: 7px;
-            background: #2563eb;
+            background: #57c848;
             color: white;
             text-decoration: none;
             font-size: 14px;
@@ -79,7 +79,7 @@
         }
 
         .btn:hover {
-            background: #1d4ed8;
+            background: #308c24;
         }
 
         .btn-back {
