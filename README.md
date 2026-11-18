@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # School Management System
 
 ## About the Project
@@ -57,5 +57,4 @@ Copy .env.example and rename the copy to .env.
 Run php artisan key:generate.
 Configure your database in .env.
 Run php artisan migrate.
-Start the server using php artisan serve.
->>>>>>> main
+Start the server using php artisan serv
